@@ -10,6 +10,16 @@ The goal of this project was to build a simple content-based recommendation syst
 
 For a selected product, the system compares its description with the descriptions of other products and returns the most similar products.
 
+## Screenshots
+
+### Home Page
+
+![Home Page](images/homepage.png)
+
+### Product Recommendations
+
+![Product Recommendations](images/product_recom.png)
+
 The overall flow is:
 
 ```text
