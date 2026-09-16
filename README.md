@@ -14,7 +14,7 @@ For a selected product, the system compares its description with the description
 
 ### Home Page
 
-![Home Page](images/homepage.png)
+![Home Page](../home/images/homepage.png)
 
 ### Product Recommendations
 
