@@ -14,11 +14,11 @@ For a selected product, the system compares its description with the description
 
 ### Home Page
 
-![Home Page](../home/images/homepage.png)
+![Home Page](home/images/homepage.png)
 
 ### Product Recommendations
 
-![Product Recommendations](images/product_recom.png)
+![Product Recommendations](home/images/product_recom.png)
 
 The overall flow is:
 
