@@ -36,7 +36,7 @@
         // Fetch products from the API
 
         function fetchProduct(){
-            fetch('http://127.0.0.1:8000/product/')
+            fetch('/product/')
             .then(response => response.json())
             .then(data => {
                 // Extract all products and similar products
@@ -93,7 +93,7 @@
             }).showToast();
 
             // Call the API with the product ID
-            fetch(`http://127.0.0.1:8000/activity/?product_id=${productId}`)
+            fetch(`http://127.0.0.1:8001/activity/?product_id=${productId}`)
                 .then(response => response.json())
                 .then(data => {
                     console.log('Activity recorded for product:', productId);
